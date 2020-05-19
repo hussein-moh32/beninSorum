@@ -201,7 +201,7 @@ into = "Name-Surname : "+name+"-"+surname+"\n"+"BirthDay : "+birthday+"\n"+"E-ma
             dosya.write(into.getBytes());
             dosya.flush();
             dosya.close();
-            System.out.println("girdi");
+            System.out.println("Kayidedildi");
         } 
         catch (Exception e) {
             e.printStackTrace();
