@@ -206,36 +206,7 @@ into = "Name-Surname : "+name+"-"+surname+"\n"+"BirthDay : "+birthday+"\n"+"E-ma
         catch (Exception e) {
             e.printStackTrace();
         }                
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-        
-
-        
-       
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+  
     }
     ///////////////////////////// end main class
     //////////////////////////////////////////////////
