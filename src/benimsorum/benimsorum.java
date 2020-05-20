@@ -52,14 +52,14 @@ public class benimsorum {
         System.out.println("//////////////////");
         saveinto();
         
-//        try{
-//        employee.showalldata();
-//        
-//        }
-//        catch(Exception e){
-//            System.out.println("An invalid value was entered");
-//          
-//        }
+        try{
+        employee.showalldata();
+        
+           }
+          catch(Exception e){
+            System.out.println("An invalid value was entered");
+          
+        }
         
     }
     
@@ -347,7 +347,7 @@ into = "Name-Surname : "+name+"-"+surname+"\n"+"BirthDay : "+birthday+"\n"+"E-ma
     }
     ///////////////////////////////////////////////////
     //////////////////////////////////////////////////////////
-                //////////// employee class end /////////////////////////////////////////////
+    //////////// employee class end /////////////////////////////////////////////
     ////////////////////////////////////////////////////////
     //////////////////////////////////////////////////////////
     
